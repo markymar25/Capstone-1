@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Mulish:wght@300&family=Work+Sans:wght@800&display=swap');
 * {
 	margin: 0;
 	padding: 0;
@@ -7,8 +8,18 @@ body {
 
 }
 
-p {
+p, a {
 	color: #333533;
+	font-family: Hind Siliguri;
+}
+
+h1, h5 {
+	font-family: 'Work Sans', sans-serif;
+	color: #333533 !important;
+}
+
+.tagline {
+	font-family: 'Mulish', sans-serif;
 }
 
 #nav-bar {
