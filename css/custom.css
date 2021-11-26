@@ -91,9 +91,9 @@ hr {
 	align:  center;
 }
 
-h1.cap-text {
+h2.cap-text {
 	color: #333533;
-	font-size: 2rem;
+	font-family: 'Mulish', sans-serif;
 }
 
 h1.cap-title {
