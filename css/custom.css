@@ -77,19 +77,18 @@ h1, h5 {
 	transform: skewY(3deg);
 }
 
-#about-me .container {
-	background-color: #fff;
+#about-me .diagon {
+	background-color: #5AE3A7;
 	transform: skewY(-3deg);
 }
 
-#about-me .diagon {
-	transform: skewY(0deg);
+.card-img-top {
+	width: 80%;
 }
 
-hr {
-	width: 50%;
-	align:  center;
-}
+/*#about-me .diagon {
+	transform: skewY(0deg);
+}*/
 
 h2.cap-text {
 	color: #333533;
